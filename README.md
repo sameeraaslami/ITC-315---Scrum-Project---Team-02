@@ -12,8 +12,11 @@ Group Members:
 
 Meetings and Documentations:
 
+Main Folder: 
 ITC 315 - Srum Project - Team 02 - Fall 2022
 https://drive.google.com/drive/folders/1qgTX9ApAFu4t2mZHRB27Sa6iBU8e8WlE?usp=share_link
+
+Sub Folders:
 
 1.	First Sprint (Sprint Planning, Daily Scrum Meetings, Sprint Review) 
 https://drive.google.com/drive/folders/1c9SKxGpEhbP684Fc6N-neOVl2dUxDHaN?usp=sharing
