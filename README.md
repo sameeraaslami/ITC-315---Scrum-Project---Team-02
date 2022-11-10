@@ -1,6 +1,7 @@
 # ITC 315 - Scrum Project - Team 02 - Fall 2022
 
-AUAF Student Management System Final Project – Scrum Project Management Framework – American University of Afghanistan
+AUAF Student Management System 
+Final Project – Scrum Project Management Framework – American University of Afghanistan
 
 Group Members:
 
@@ -9,6 +10,7 @@ Ahmad Bilal Haidary (Scrum Master)
 Sameera Aslami (Development Team)
 Nilofar Sohail (Development Team)
 Mohamad Abid Azamy (Development Team)
+
 Meetings and Documentations:
 
 Main Folder:
