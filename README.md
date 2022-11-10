@@ -1,4 +1,4 @@
-ITC 315 - Srum Project - Team 02 - Fall 2022
+#ITC 315 - Srum Project - Team 02 - Fall 2022
 
 AUAF Student Management System
 Final Project – Scrum Project Management Framework – American University of Afghanistan
