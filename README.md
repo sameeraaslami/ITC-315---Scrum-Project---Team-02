@@ -27,3 +27,6 @@ https://drive.google.com/drive/folders/1SLmlDrj13eVLO4kyQPhqmhxkXUDrFESY?usp=sha
 
 4.	Documents (Product Backlog, Sprints Backlog, Sprint Burndown Chart, Meetings’ Agendas)
 https://drive.google.com/drive/folders/1JZjIQRnwjGEPT7VyTCfp_6QKu2ulBcKY?usp=share_link
+
+Daily Uploads:
+1. The Product Backlog has been uploaded to the Documents on Google Drive.
