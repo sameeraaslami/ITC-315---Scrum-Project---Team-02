@@ -29,4 +29,5 @@ https://drive.google.com/drive/folders/1SLmlDrj13eVLO4kyQPhqmhxkXUDrFESY?usp=sha
 https://drive.google.com/drive/folders/1JZjIQRnwjGEPT7VyTCfp_6QKu2ulBcKY?usp=share_link
 
 Daily Uploads:
-1. The Product Backlog has been uploaded to the Documents on Google Drive.
+1. The Product Backlog (ITC 315 - Product Backlog) has been uploaded to the Documents Folder on Google Drive and Github as well.
+2. The Sprints Backlog (ITC 315 - Sprints' Backlog - AUAF Student Management System) has been uploaded to the Documents Folder on Google Drive and Github as well. 
