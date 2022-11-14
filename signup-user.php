@@ -120,3 +120,4 @@
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
   
 </html>
+      I am done with the signup page. If there any changes needed in this part please let me know. I will work on that. 
