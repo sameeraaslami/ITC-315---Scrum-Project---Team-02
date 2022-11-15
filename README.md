@@ -32,4 +32,5 @@ Daily Uploads:
 1. The Product Backlog (ITC 315 - Product Backlog) has been uploaded to the Documents Folder on Google Drive and Github as well.
 2. The Sprints Backlog (ITC 315 - Sprints' Backlog - AUAF Student Management System) has been uploaded to the Documents Folder on Google Drive and Github as well. 
 3. Sprint Planning of the First Sprint titled as (First Sprint - Sprint Planning Meeting) has been uploaded to the First Sprint Folder on Google Drive.
-4. The first daily scrum meeting of the first sprint titled as (Scrum 01 - First Sprint) has been uploaded to the First Sprint Folder on Google Drive.
+4. Sprint Planning Meeting Agenda of the First Sprint titled as (Agenda 01 - Sprint Planning Meeting Agenda - First Sprint) has been uploaded to the Documents Folder on Google Drive.
+5. The first daily scrum meeting of the first sprint titled as (Scrum 01 - First Sprint) has been uploaded to the First Sprint Folder on Google Drive.
