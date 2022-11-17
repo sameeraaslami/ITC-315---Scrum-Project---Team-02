@@ -35,3 +35,4 @@ Daily Uploads:
 4. Sprint Planning Meeting Agenda of the First Sprint titled as (Agenda 01 - Sprint Planning Meeting Agenda - First Sprint) has been uploaded to the Documents Folder on Google Drive.
 5. The first daily scrum meeting of the first sprint titled as (Scrum 01 - First Sprint) has been uploaded to the First Sprint Folder on Google Drive.
 6. Daily Scrum #01 Meeting Agenda of the First Sprint titled as (Agenda 02 - Daily Scrum #01 Meeting Agenda - First Sprint) has been uploaded to the Documents Folder on Google Drive.
+7. The second daily scrum meeting of the first sprint titled as (Scrum 02 - First Sprint) has been uploaded to the First Sprint Folder on Google Drive.
