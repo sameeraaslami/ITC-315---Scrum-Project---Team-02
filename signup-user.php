@@ -23,6 +23,7 @@
     <script src="assets/js/jquery.js"></script>
     <style>
       body{
+        background-color: #bdbdbd;
         display: flex;
         height: calc(100%);
         width: calc(100%);
@@ -32,13 +33,13 @@
       .login-form {
   display: block;
   position: fixed;
-  border:5px solid grey;
+  border:5px;
   border-radius: 20px;
   padding: 30px;
   width: 400px;
   background-color: white;
   left:500px;
-  top:180px;
+  top:120px;
  } 
  .erlert{
   display:block;
@@ -51,16 +52,21 @@
 <body>
   
 
+
 <div class="container">
 
   <div class="login-form" id="login_modal" role="dialog" >
+  <div class="form-group">
+ <img src="images/auafLogo.png" class="img-responsive center-block d-block mx-auto" style=" width: 85%;  border-radius:5px " > <br>
 
 
   <center><h3 style="color:#2979ff; border-radius:5px"><b>Sign Up</b></h3></center>
+
+  
   
   
 
-  <form class="form-horizontal" method="post">
+  <form class="form-horizontal" method="post" action="server.php">
     <div class="form-group">
       <div class="col-md-15">
       <div class="text-center">
@@ -77,6 +83,17 @@
         </div>
       </div>
     </div>
+
+    <div class="u-form-group u-form-select u-form-group-5">
+                  <div class="u-form-select-wrapper">
+                    <select id="select-e13c" name="select" class="u-border-2 u-border-grey-10 u-grey-10 u-input u-input-rectangle u-radius-11 u-input-5" required="required">
+                      <option value="Student">Student</option>
+                      <option value="Instructor">Instructor</option>
+                      <option value="Admin">Admin</option>
+                    </select>
+
+
+    
     <div class="form-group">
       <div class="col-md-15">
       <div class="text-center">
@@ -95,10 +112,14 @@
       </div>
       </div>
     </div>
+    
+    
+
     <div class="form-group">        
     <div class="text-center">
       <!--<button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal">Create New</button>-->
         <button type="submit"  class="text-center" style=" width: 64%; border-radius:20px" name="reg_user" >Register</button>
+        
 
         <div class="form-group">        
     <div class="text-center">
@@ -108,7 +129,7 @@
       </div>
     </div>
   </form>
-  <?php include('server.php') ?>
+  <?php include 'server.php' ?>
    </div>          
 </div>
 
@@ -120,4 +141,3 @@
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
   
 </html>
-      I am done with the signup page. If there any changes needed in this part please let me know. I will work on that. 
