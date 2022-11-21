@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "grading_db";
+$dbname = "auaf";
 
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
