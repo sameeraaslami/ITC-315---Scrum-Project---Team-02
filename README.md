@@ -39,8 +39,8 @@ Daily Uploads:
 8. Daily Scrum #02 Meeting Agenda of the First Sprint titled as (Agenda 03 - Daily Scrum #02 Meeting Agenda - First Sprint) has been uploaded to the Documents Folder on Google Drive.
 9. The third daily scrum meeting of the first sprint titled as (Scrum 03 - First Sprint) has been uploaded to the First Sprint Folder on Google Drive.
 10. Daily Scrum #03 Meeting Agenda of the First Sprint titled as (Agenda 04 - Daily Scrum #03 Meeting Agenda - First Sprint) has been uploaded to the Documents Folder on Google Drive.
-11. Sprint Review of the First Sprint Meeting titled as (First Sprint - Sprint Review Meeting) has been uploaded to the First Sprint Folder on Google Drive.
+11. Sprint Review Meeting of the First Sprint titled as (First Sprint - Sprint Review Meeting) has been uploaded to the First Sprint Folder on Google Drive.
 12. Sprint Review Meeting Agenda of the First Sprint titled as (Agenda 05 - Sprint Review Meeting Agenda - First Sprint) has been uploaded to the Documents Folder on Google Drive.
 
 13. Sprint Planning Meeting of the Second Sprint titled as (Second Sprint - Sprint Planning Meeting) has been uploaded to the Second Sprint Folder on Google Drive.
-
+14. Sprint Planning Meeting Agenda of the Second Sprint titled as (Agenda 06 - Sprint Planning Meeting Agenda - Second Sprint) has been uploaded to the Documents Folder on Google Drive.
