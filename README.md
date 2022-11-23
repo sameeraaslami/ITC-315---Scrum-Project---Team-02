@@ -44,3 +44,5 @@ Daily Uploads:
 
 13. Sprint Planning Meeting of the Second Sprint titled as (Second Sprint - Sprint Planning Meeting) has been uploaded to the Second Sprint Folder on Google Drive.
 14. Sprint Planning Meeting Agenda of the Second Sprint titled as (Agenda 06 - Sprint Planning Meeting Agenda - Second Sprint) has been uploaded to the Documents Folder on Google Drive.
+15. The first daily scrum meeting of the Second Sprint titled as (Scrum 01 - Second Sprint) has been uploaded to the Second Sprint Folder on Google Drive.
+
