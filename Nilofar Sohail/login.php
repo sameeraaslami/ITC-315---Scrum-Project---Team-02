@@ -23,7 +23,6 @@
     <script src="assets/js/jquery.js"></script>
     <style>
       body{
-        background-color: #bdbdbd;
         display: flex;
         height: calc(100%);
         width: calc(100%);
@@ -33,13 +32,13 @@
       .login-form {
   display: block;
   position: fixed;
-  border:5px;
+  border:5px solid grey;
   border-radius: 20px;
   padding: 30px;
   width: 400px;
   background-color: white;
   left:500px;
-  top:120px;
+  top:210px;
  } 
  .erlert{
   display:block;
@@ -52,54 +51,21 @@
 <body>
   
 
-
 <div class="container">
 
   <div class="login-form" id="login_modal" role="dialog" >
-  <div class="form-group">
- <img src="images/auafLogo.png" class="img-responsive center-block d-block mx-auto" style=" width: 85%;  border-radius:5px " > <br>
 
 
-  <center><h3 style="color:#2979ff; border-radius:5px"><b>Sign Up</b></h3></center>
-
-  
+  <center><h3 style="color:#2979ff; border-radius:5px"><b>Sign In</b></h3></center>
   
   
 
-  <form class="form-horizontal" method="post" action="server.php">
+  <form class="form-horizontal" method="post">
     <div class="form-group">
       <div class="col-md-15">
       <div class="text-center">
       <span class="badge badge-pill" style="width: 94%; border-radius: 20px">
-        <input type="text" class="form-control" name="username" placeholder="Username" autocomplete="off" value="<?php echo $username; ?>">
-      </div>
-      </div>
-    </div>
-    <div class="form-group">
-      <div class="col-md-15">
-      <div class="text-center">
-      <span class="badge badge-pill" style="width: 94%; border-radius: 20px">
-        <input type="text" class="form-control" name="email" placeholder="Email" autocomplete="off" value="<?php echo $email; ?>">
-        </div>
-      </div>
-    </div>
-
-    <div class="u-form-group u-form-select u-form-group-5">
-                  <div class="u-form-select-wrapper">
-                    <select id="select-e13c" name="select" class="u-border-2 u-border-grey-10 u-grey-10 u-input u-input-rectangle u-radius-11 u-input-5" required="required">
-                      <option value="Student">Student</option>
-                      <option value="Instructor">Instructor</option>
-                      <option value="Admin">Admin</option>
-                    </select>
-
-
-    
-    <div class="form-group">
-      <div class="col-md-15">
-      <div class="text-center">
-      <span class="badge badge-pill" style="width: 94%; border-radius: 20px">
-          
-        <input type="password" class="form-control" name="password_1" placeholder="Password">
+        <input type="text" class="form-control" id="user" name="user" placeholder="Username" autocomplete="off">
       </div>
       </div>
     </div>
@@ -108,28 +74,24 @@
       <div class="text-center">
       <span class="badge badge-pill" style="width: 94%; border-radius: 20px">
           
-        <input type="password" class="form-control" name="password_2" placeholder="Confirm Password">
+        <input type="password" class="form-control" id="pwd" name="pwd" placeholder="Password">
       </div>
       </div>
     </div>
-    
-    
-
     <div class="form-group">        
     <div class="text-center">
       <!--<button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal">Create New</button>-->
-        <button type="submit"  class="text-center" style=" width: 64%; border-radius:20px" name="reg_user" >Register</button>
-        
-
+        <button type="submit"  class="text-center" style=" width: 74%; border-radius:20px">Sign In</button>
         <div class="form-group">        
     <div class="text-center">
-      <div class="link login-link text-center">Already have account? <a href="login.php">Sign In</a></div>
-       
+      <div class="link login-link text-center">Don't have account? <a href="signup-user.php">Sign Up</a></div>
        
       </div>
     </div>
   </form>
-  <?php include 'server.php' ?>
+   <?php
+  include 'connect.php';
+  ?>
    </div>          
 </div>
 
